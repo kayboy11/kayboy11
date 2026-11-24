@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm James Kelechi 👋
 
-<!--
-**kayboy11/kayboy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full-Stack Web Developer | Electrical & Electronics Engineering Graduate
 
-Here are some ideas to get you started:
+I'm an aspiring web developer passionate about building practical solutions through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning **Laravel, PHP, JavaScript, and MySQL**.
+- 💻 Building practical web applications and improving my programming skills.
+- 🔧 Background in Electrical and Electronics Engineering.
+- 🎯 Focused on becoming a professional web developer.
+- 🤝 Open to learning, collaboration, internships, and job opportunities.
+
+### 🛠️ Technologies I'm Learning
+
+- PHP
+- Laravel
+- JavaScript
+- HTML & CSS
+- MySQL
+- Git & GitHub
+
+### 📌 Current Projects
+
+- Patient Record Management System (Laravel)
+- Weather Application
+- Other practical web development projects
+
+### 📫 Connect With Me
+
+- GitHub: [@kayboy11](https://github.com/kayboy11)
+
