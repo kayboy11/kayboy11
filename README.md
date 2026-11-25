@@ -21,7 +21,6 @@ I'm an aspiring web developer passionate about building practical solutions thro
 
 ### 📌 Current Projects
 
-- Patient Record Management System (Laravel)
 - Weather Application
 - Other practical web development projects
 
